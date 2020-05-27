@@ -1,0 +1,256 @@
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.dll.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.exe.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.rsp
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.exe.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.rsp
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.AppContext.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Console.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Net.Http.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.exe.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.rsp
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Antlr3.Runtime.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.SqlServer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Newtonsoft.Json.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Owin.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Helpers.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Mvc.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Optimization.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Razor.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Razor.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\WebGrease.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Helpers.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Mvc.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Optimization.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Razor.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Razor.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Newtonsoft.Json.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Antlr3.Runtime.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Net.Http.Formatting.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.WebHost.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerUtilites.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Net.Http.Formatting.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.WebHost.xml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.dll.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\MVCPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.exe.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csc.rsp
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.exe.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\csi.rsp
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.AppContext.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Console.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Net.Http.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.exe.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\vbc.rsp
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Antlr3.Runtime.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.SqlServer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Newtonsoft.Json.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Owin.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Net.Http.Formatting.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Helpers.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.WebHost.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Mvc.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Optimization.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Razor.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Razor.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\WebGrease.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayerUtilites.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Net.Http.Formatting.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Http.WebHost.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Helpers.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Mvc.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Optimization.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.Razor.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\System.Web.WebPages.Razor.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Newtonsoft.Json.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Antlr3.Runtime.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\bin\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.Migrations.InitialCreate.resources
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.Migrations.AddedFirstandLastNameFieldstoUser.resources
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.Migrations.EmployeeID.resources
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csproj.GenerateResource.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\MVCPresentationLayer\obj\Debug\MVCPresentationLayer.pdb

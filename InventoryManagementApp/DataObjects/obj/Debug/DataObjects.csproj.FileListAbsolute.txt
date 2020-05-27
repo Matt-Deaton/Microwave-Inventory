@@ -1,0 +1,28 @@
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataObjects\obj\Debug\DataObjects.pdb

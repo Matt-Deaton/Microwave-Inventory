@@ -1,0 +1,52 @@
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayer\obj\Debug\LogicLayer.pdb

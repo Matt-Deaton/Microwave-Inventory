@@ -1,0 +1,18 @@
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\LogicLayerUtilites.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\LogicLayerUtilites.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\LogicLayerUtilites\obj\Debug\LogicLayerUtilites.pdb

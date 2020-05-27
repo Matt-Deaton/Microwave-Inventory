@@ -1,0 +1,26 @@
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessUtilites.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessUtilites.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessUtilites.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessUtilites.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\DataAccessUtilites\obj\Debug\DataAccessUtilites.pdb

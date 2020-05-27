@@ -1,0 +1,146 @@
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe.config
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\App.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.lref
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.g.resources
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.Properties.Resources.resources
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.GenerateResource.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.baml
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe.config
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.pdb
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csprojAssemblyReference.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.g.cs
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.g.cs
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.g.cs
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\App.g.cs
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.lref
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.baml
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.baml
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.baml
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.g.resources
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.Properties.Resources.resources
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.GenerateResource.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CoreCompileInputs.cache
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CopyComplete
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.exe
+E:\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe.config
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\App.g.cs
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.lref
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.g.resources
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.Properties.Resources.resources
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.GenerateResource.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Fall 2019\.Net II\Final Project\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe.config
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.g.cs
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.g.cs
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\App.g.cs
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.lref
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.baml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.baml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.baml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.g.resources
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.Properties.Resources.resources
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.GenerateResource.cache
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Spring 2020\.Net III\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe.config
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\WpfPresentationLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessInterfaces.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csprojAssemblyReference.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.g.cs
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.g.cs
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.g.cs
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\App.g.cs
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer_MarkupCompile.lref
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmMoveScreen.baml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePart.baml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\frmUpdatePassword.baml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.g.resources
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.Properties.Resources.resources
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.GenerateResource.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.csproj.CopyComplete
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.exe
+C:\Users\m_dea\Desktop\Microwave Inventory\InventoryManagementApp\WpfPresentationLayer\obj\Debug\WpfPresentationLayer.pdb

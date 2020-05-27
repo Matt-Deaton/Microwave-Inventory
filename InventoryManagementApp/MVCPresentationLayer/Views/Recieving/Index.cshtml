@@ -1,0 +1,34 @@
+﻿@model MVCPresentationLayer.Models.PartListViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Recieving Home Screen</h2>
+@if (TempData["successMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["successMessage"]</div>
+}
+
+<p>
+    @Html.ActionLink("Recieve Part", "Recieve")
+</p>
+<table class="table">
+	<tr>
+		<th>Part Number</th>
+		<th>Part Name</th>
+		<th>Quantity</th>
+		<th>Location</th>
+		<th></th>
+	</tr>
+
+@foreach (var part in Model.Part) {
+    <tr>
+        <td>@part.PartNumber</td>
+        <td>@part.PartName</td>
+        <td>@part.Quantity</td>
+        <td>@part.Location</td>
+    </tr>
+}
+
+</table>
